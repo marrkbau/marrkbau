@@ -26,5 +26,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 - 🤔 Currently, my interests lie in both front-end and backend web development, as I strive to build a well-rounded skill set in the field.
 - 💬 Ask me about anything, I love to answer!
 
+<br />
+<br />
 
 [![Marrkbau's GitHub stats](https://github-readme-stats.vercel.app/api?username=marrkbau&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/marrkbau) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marrkbau&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/marrkbau) 
