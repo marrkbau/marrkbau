@@ -29,4 +29,4 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 <br />
 <br />
 
-[![Marrkbau's GitHub stats](https://github-readme-stats.vercel.app/api?username=marrkbau&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/marrkbau) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marrkbau&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/marrkbau) 
+[![Marrkbau's GitHub stats](https://github-readme-stats.vercel.app/api?username=marrkbau&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/marrkbau)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marrkbau&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/marrkbau) 
