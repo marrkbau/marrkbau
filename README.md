@@ -38,7 +38,10 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg"></code>
 
+<br>
+<br>
 
 **<📊> GitHub stats </📊>**
-
+<br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marrkbau&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/marrkbau) 
