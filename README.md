@@ -21,7 +21,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me! 🙌**
 
-- 👨🏽‍💻 I’m currently studying Information Systems Engineering at National Technological University.
+- 👨🏽‍💻 I’m currently studying Information Systems Engineering at National Technological University (UTN).
 - 🌱 I'm delving into JAVA with Spring Boot, aiming to bolster my expertise in backend development using this powerful framework.
 - 🤔 Currently, my interests lie in both front-end and backend web development, as I strive to build a well-rounded skill set in the field.
 - 💬 Ask me about anything, I love to answer!
