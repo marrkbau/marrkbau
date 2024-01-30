@@ -4,10 +4,10 @@
 <a target="_blank" href="https://www.linkedin.com/in/bautista-marquez-612158265">
   <img align="left" alt="marrkbau's Linkedin" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/bautista.marquez.92/">
+<a target="_blank" href="https://www.facebook.com/bautista.marquez.92/">
   <img align="left" alt="marrkbau's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="mailto:bau.marquez@gmail.com">
+<a target="_blank" href="mailto:bau.marquez@gmail.com">
   <img align="left" alt="marrkbaus's email" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
