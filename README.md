@@ -2,7 +2,7 @@
 <h3 title="hehehe"> Hey 👋, I'm marrkbau!</h3>
 
 <a href="https://www.linkedin.com/in/bautista-marquez-612158265">
-  <img align="left" alt="marrkbau's Linkedin" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="marrkbau's Linkedin" width="24px" src="https://icon.signature.email/social/linkedin-rounded-medium-0077b5-FFFFFF.png" />
 </a>
 <a href="https://www.facebook.com/bautista.marquez.92/">
   <img align="left" alt="marrkbau's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
