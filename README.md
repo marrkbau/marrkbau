@@ -1,7 +1,7 @@
 
 <h3 title="hehehe"> Hey 👋, I'm marrkbau!</h3>
 
-<a href="https://www.linkedin.com/in/bautista-marquez-612158265">
+<a target="_blank" href="https://www.linkedin.com/in/bautista-marquez-612158265">
   <img align="left" alt="marrkbau's Linkedin" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/bautista.marquez.92/">
