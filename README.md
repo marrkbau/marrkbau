@@ -32,9 +32,9 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 <br>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"></code>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"></code>
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"></code>
 <br>
 <br>
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
